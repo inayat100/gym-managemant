@@ -1,2 +1,2 @@
-# gym-managemant
+# gym-management
 version odoo16.0
